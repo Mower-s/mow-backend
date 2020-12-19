@@ -1,0 +1,26 @@
+{
+  "name": "mow-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mower-s/mow-backend.git"
+  },
+  "author": "Akash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mower-s/mow-backend/issues"
+  },
+  "homepage": "https://github.com/Mower-s/mow-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "socket.io": "^3.0.4",
+    "websocket": "^1.0.33"
+  }
+}
